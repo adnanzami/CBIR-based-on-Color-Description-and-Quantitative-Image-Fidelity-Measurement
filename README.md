@@ -4,7 +4,7 @@ The aim of this paper is to investigate the feasibility of content based image r
 
 ## Installation
 
-The programs in this repo was run on Matlab and all the analysis was done using Matlab too. Import all the files from MATLAB Code where you will find the programs and the database.
+The programs in this repo were run on Matlab and all the analysis was done using Matlab too. Import all the files from MATLAB Code where you will find the programs and the database.
 
 ## Usage
 There are 5 programs in this repo which does the following -
