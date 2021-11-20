@@ -13,11 +13,11 @@ Program 0 - The purpose of this program is to explore the images in the database
 
 Program 1 - This code assign label to images in the dataset.
 
-Program 2 - Program to test the feature extraction to get RGB and HSV color histogram.
+Program 2 - Program to extract RGB and HSV color histogram.
 
-Program 4 - The purpose of this program is to assign feature vector to each record
+Program 4 - The purpose of this program is assign feature vector to each record
 
-Program 5 -The purpose of this program is to do image retrieval from the created database
+Program 5 -This program performs image retrieval from the created database
 
 
 
